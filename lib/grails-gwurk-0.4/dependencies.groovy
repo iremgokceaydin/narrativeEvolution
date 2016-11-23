@@ -25,6 +25,9 @@ grails.project.dependency.resolution = {
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes eg.
         // runtime 'mysql:mysql-connector-java:5.1.24'
         compile "org.clojars.zaxtax:java-aws-mturk:1.6.2"
+//        compile "../java-aws-mturk"
+//        compile "../aws-mturk-dataschema"
+//        compile "../aws-mturk-wsdl"
     }
 
     plugins {
