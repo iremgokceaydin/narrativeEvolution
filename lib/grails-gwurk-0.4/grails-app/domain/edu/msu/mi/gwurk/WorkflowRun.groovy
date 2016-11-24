@@ -124,7 +124,7 @@ class WorkflowRun implements BeatListener {
     }
 
     def run(times) {
-        if (currentStatus != Status.WAITING) throw new MturkStateException("Can't reuse a workflow object; plese use 'copy' if you would like to run with existing parameters")
+        if (currentStatus != Status.WAITING) throw new MturkStateException("Can't reuse a workflow object; please use 'copy' if you would like to run with existing parameters")
         currentStatus = Status.RUNNING
         maxIterations = times
         kickoff()

@@ -12,7 +12,7 @@
 // }
 
 gwurk.port = 8443
-gwurk.hostname = "cognosis.cas.msu.edu" //TODO: change it to localhost, chrome cross site credentials, https launch grails
+gwurk.hostname = "localhost"//"cognosis.cas.msu.edu" //TODO: change it to localhost, chrome cross site credentials, https launch grails
 
 
 //gwurk.port = 8001

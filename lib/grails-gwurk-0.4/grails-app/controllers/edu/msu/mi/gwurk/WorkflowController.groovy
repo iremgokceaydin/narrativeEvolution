@@ -21,7 +21,7 @@ class WorkflowController {
     def doLaunch() {
         Workflow w = flash.workflow
 
-        mturkMonitorService.launch(w,params.type=="real",params.iterations as int,Credentials.get(params.credentials as long), params.props as Map)
+        mturkMonitorService.launch(w,params.type=="real",params.iterations as Integer,Credentials.get(params.credentials as long), params.props as Map)
         redirect(action:"index",controller:"workflowRun")
     }
 
