@@ -1,0 +1,542 @@
+[
+  {
+    "title": "Jason story: Non-exemplified, early positioned, unchained",
+    "story": "Often, new parents struggle with maintaining healthy habits. Because of the stress and tiredness they feel. This can lead to poor eating habits and chronic fatigue. Poor eating habits can contribute to tiredness, as well as other health problems. To deal with tiredness, new parents should strive to develop easy to use strategies for eating 2-3 servings of lean meats or beans and servings fruits and vegetables daily. Planning their meals ahead of time can help, others who have children may also be able to provide helpful advice. Oftentimes, family and friends will be happy to pitch in and help out if parents ask. Equipped with such knowledge and support, parents can develop good eating habits, which not only help them maintain good energy levels, but also sets a good example for their children.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Exemplified, early positioned, unchained",
+    "story": "When Jason became a new parent, he and his partner felt very stressed and tired. They started eating badly and experienced chronic fatigue. Their poor eating habits contributed to their tiredness, as well as other health problems. To deal with their tiredness, Jason and his partner strived to develop easy to use strategies for eating 2-3 servings of lean meats or beans and 5 servings fruits and vegetables daily. They learned that planning their meals ahead of time can help, and that others who have children may also be able to provide helpful advice. Oftentimes, family and friends will be happy to pitch in and help out if parents ask. Equipped with such knowledge and support, Jason and his partner developed good eating habits, which not only help them maintain good energy levels, but also sets a good example for their children.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Non-exemplified, early positioned, chained",
+    "story": "Often, new parents struggle with maintaining healthy habits because of the stress and tiredness they feel. This can lead new parents to eat more fast foods which are typically low in nutrients and high in calories. Such unhealthy diets can further reduce new parents’ energy levels. To deal with tiredness, new parents should strive to develop easy to use strategies for eating 2-3 servings of lean meats or beans and 5 servings fruits and vegetables daily and planning their meals ahead of time can help, others who have children may also be able to provide helpful advice. Oftentimes, family and friends will be happy to pitch in and help out if parents ask. Equipped with such knowledge and support, parents can develop good eating habits, which not only help them maintain good energy levels, but also sets a good example for their children.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Exemplified, early positioned, chained",
+    "story": " When Jason became a new parent. He and his partner felt very stressed and tired. This made them have poor eating habits and experience chronic fatigue. Their poor eating habits contributed to their tiredness. And their unhealthy diet was reducing their energy levels. Jason and his partner decided to focus on eating 2-3 servings of lean meats or beans and 5 servings fruits and vegetables daily and trying to plan their meals ahead of time and asking for help. Their friends and family who have children gave them helpful advice, to deal with tiredness and and ideas to make healthier meals. Jason and his partner started eating healthier meals. And this helped with their energy levels and overall health. Eating healthy and not being tired helped them set a good example for their children on how to live a healthy life. ",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Non-exemplified, middle positioned, unchained",
+    "story": " Often, new parents struggle with maintaining healthy habits. Because of the stress and tiredness they feel. This can lead to poor eating habits and chronic fatigue. Poor eating habits can contribute to tiredness, as well as other health problems. To deal with tiredness, new parents should strive to develop easy to use strategies for eating 2-3 servings of lean meats or beans and 5 servings fruits and vegetables. Planning their meals ahead of time can help, others who have children may also be able to provide helpful advice. Oftentimes, family and friends will be happy to pitch in and help out if parents ask. Equipped with such knowledge and support, parents can develop good eating habits, which not only help them maintain good energy",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Exemplified, middle positioned, unchained",
+    "story": "When Jason became a new parent, He and his partner felt very stressed and tired. They started eating poorly and experienced chronic fatigue. Their poor eating habits contributed to their tiredness, as well as other health problems. To deal with their tiredness, Jason and his partner strived to develop easy to use strategies for eating 2-3 servings of lean meats or beans and 5 servings fruits and vegetables. They learned that planning their meals ahead of time can help, and that others who have children may also be able to provide helpful advice. Oftentimes, family and friends will be happy to pitch in and help out if parents ask. Equipped with such knowledge and support, Jason and his partner developed good eating habits, Which not only help them maintain good energy levels, but also sets a good example for their children.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Non-exemplified, middle positioned, chained",
+    "story": "Often, new parents struggle with maintaining healthy habits because of the stress and tiredness they feel. This can lead new parents to eat more fast foods, which are typically low in nutrients and high in calories. Such unhealthy diets can further reduce new parents’ energy levels. To deal with tiredness, new parents should strive to develop easy to use strategies for eating 2-3 servings of lean meats or beans and 5 servings fruits and vegetables daily. Planning their meals ahead of time can help, others with children may provide helpful advice, like informing new parents that oftentimes, family and friends will be happy to pitch in and help out if parents ask. Equipped with such knowledge and support, Parents can develop good eating habits, which not only help them maintain good energy levels, but also sets a good example for their children.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Exemplified, middle positioned, chained",
+    "story": "When Jason became a new parent, He and his partner felt very stressed and tired. They started eating poorly and experienced chronic fatigue. Their poor eating habits contributed to their tiredness, as well as other health problems. To deal with their tiredness, Jason and his partner strived to develop easy to use strategies for eating 2-3 servings of lean meats or beans and 5 servings fruits and vegetables daily. They learned that planning their meals ahead of time can help, and that others with children may provide helpful advice. Oftentimes, family and friends will be happy to pitch in and help out if parents ask. Equipped with such knowledge and support, Jason and his partner developed good eating habits, which not only help them maintain good energy levels, but also sets a good example for their children.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Non-exemplified, late positioned, unchained",
+    "story": "Often, new parents struggle with maintaining healthy habits because of the stress and tiredness they feel. This can lead to poor eating habits and chronic fatigue. Poor eating habits can contribute to tiredness, as well as other health problems. To deal with tiredness, new parents should strive to develop easy to use strategies for 2-3 servings of eating lean meats or beans and at least 5 servings of fruits and vegetables daily. Planning their meals ahead of time can help, and others who have children may also be able to provide helpful advice on healthy eating. Oftentimes, family and friends will be happy to pitch in and help out if parents ask. Equipped with more knowledge and support, parents can develop good habits, which not only help them maintain good energy levels, but also sets a good example for their children.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Exemplified, late positioned, unchained",
+    "story": "When Jason became a new parent, He and his partner felt very stressed and tired. They started eating poorly and experienced chronic fatigue. Their poor eating habits contributed to their tiredness, as well as other health problems. To deal with their tiredness, Jason and his partner strived to develop easy to use strategies for eating 2-3 servings of lean meats or beans and 5 servings fruits and vegetables daily. They learned that planning their meals ahead of time can help, and that others with children may provide helpful advice. Oftentimes, family and friends will be happy to pitch in and help out if parents ask. Equipped with more knowledge and support, Jason and his partner developed good habits, which not only help them maintain good energy levels, but also sets a good example for their children.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Non-exemplified, late positioned, chained",
+    "story": "Often, new parents struggle with maintaining healthy habits because of the stress and tiredness they feel. This can lead new parents to eat more fast foods, which are typically low in nutrients and high in calories. Such unhealthy diets can further reduce new parents’ energy levels. To deal with tiredness, New parents should strive to develop easy to use strategies eating 2-3 servings of lean meats or beans and 5 servings fruits and vegetables daily. Planning their meals ahead of time can help, others who have children may also be able to provide helpful advice. Oftentimes, family and friends will be happy to pitch in and help out if parents ask. When equipped with more nutrition knowledge and support, parents can develop good habits, which not only help them maintain good energy levels, but also sets a good example for their children.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jason story: Exemplified, late positioned, chained",
+    "story": "When Jason became a new parent, he and his partner felt very stressed and tired. This made them have poor eating habits and experience chronic fatigue. Their poor eating habits contributed to their tiredness, as well as other health problems. To deal with their tiredness, Jason and his partner strived to develop easy to use strategies eating 2-3 servings of lean meats or beans and 5 servings fruits and vegetables daily. They learned that planning their meals ahead of time can help, and that others who have children may also be able to provide helpful advice. Oftentimes, family and friends will be happy to pitch in and help out if parents ask. Equipped with such knowledge and support,  Jason and his partner developed good habits,  which not only help them maintain good energy levels, but also sets a good example for their children.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Non-exemplified, early positioned, unchained",
+    "story": "There are many people with demanding jobs. As a result, they are often sleep deprived because of how much they work, and also experiences a lot of stress. Sometimes they don’t drink enough water, and instead drink coffee to stay awake. This can make skin look worse. Skin’s appearance can be an indicator for their overall health. A person might go to a dermatologist for their skin problems, and they would recommend drinking at 64 ounces of water in a day, and also to practice stress relief techniques, like meditation or breathing exercises for 10 minutes daily. Drinking enough water can also help with feelings of tiredness, and improve skin tone and texture. By practicing stress relief and hydrating enough, people in high stress jobs may sleep better, which will also then improve skin problems. The combination of stress relief, hydration, and sleep can also have benefits for mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Exemplified, early positioned, unchained",
+    "story": "Jenny is a young woman who has a demanding job. As a result, she is often sleep deprived because of how much she works, and also experiences a lot of stress. Jenny stopped drinking water because of her long hours, and instead drinks coffee to stay awake. Jenny noticed her skin was starting to look bad, so she went to her dermatologist. Her dermatologist told her to start drinking 64 ounces of water daily and to start practicing stress relief techniques, like meditation or breathing exercises for 10 minutes daily. She also learned being hydrated can help with her feelings of tiredness, and would improve her skin tone and texture. By exercising, practicing stress relief and hydrating enough, Jenny started sleeping better, which helped improve her skin problems. The combination of stress relief, hydration, and stress relief also had benefits for Jenny’s mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Non-exemplified, early positioned, chained",
+    "story": "There are many people with demanding jobs. As a result, they are often sleep deprived because of how much they work, and also experiences a lot of stress. Sometimes they don’t drink enough water, and instead drink coffee to stay awake. This can make skin look worse and cause someone to go see a dermatologist. Skin’s appearance can be an indicator for their overall health and the dermatologist would probably recommend drinking 64 ounces of water daily, and also to practice stress relief techniques, like meditation or breathing exercises for 10 minutes daily. Drinking enough water can also help with feelings of tiredness, and improve skin tone and texture. By practicing stress relief and hydrating enough, people in high stress jobs may sleep better, which will also then improve skin problems. The combination of stress relief, hydration, and sleep can also have benefits for mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Exemplified, early positioned, chained",
+    "story": "Jenny is a young woman who has a demanding job. As a result, she is often sleep deprived because of how much she works, and also experiences a lot of stress. Jenny stopped drinking water because of her long hours, and instead drinks coffee to stay awake. Jenny noticed her skin was starting to look bad, and so she went to her dermatologist. Her dermatologist told her to start drinking 64 ounces of water and to start practicing stress relief techniques, like meditation or breathing exercises for 10 minutes daily. She also learned being well hydrated can help with her feelings of tiredness, and would improve her skin tone and texture. By exercising, practicing stress relief and hydrating enough, Jenny started sleeping better, which helped improve her skin problems. The combination of stress relief, hydration, and stress relief also had benefits for Jenny’s mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Non-exemplified, middle positioned, unchained",
+    "story": "There are many people with demanding jobs. As a result, they are often sleep deprived because of how much they work, and also experiences a lot of stress. Sometimes they don’t drink enough water, and instead drink a lot of coffee to stay awake. This can make skin look worse. Skin’s appearance can be an indicator for their overall health. A person might go to a dermatologist for their skin problems, and they would recommend drinking 64 ounces of water, and also to practice stress relief techniques, like meditation or breathing exercises for 10 minutes daily. Drinking enough water can also help with feelings of tiredness, and improve skin tone and texture. By practicing stress relief and hydrating enough, people in high stress jobs may sleep better, which will also then improve skin problems. The combination of stress relief, hydration, and sleep can also have benefits for mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Exemplified, middle positioned, unchained",
+    "story": "Jenny is a young woman with a demanding job. As a result, she is often sleep deprived because of how much she works, and also experiences a lot of stress. Jenny stopped drinking water because of her long hours, and instead drinks coffee to stay awake. Jenny noticed her skin was starting to look bad, so she went to her dermatologist. Her dermatologist told her to start drinking 64 ounces of water and to start practicing stress relief techniques, like meditation or breathing exercises for 10 minutes daily. She also learned being hydrated can help with her feelings of tiredness, and would improve her skin tone and texture. By exercising, practicing stress relief and hydrating enough, Jenny started sleeping better, which helped improve her skin problems. The combination of stress relief, hydration, and stress relief also had benefits for Jenny’s mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Non-exemplified, middle positioned, chained",
+    "story": "There are many people with demanding jobs. As a result, they are often sleep deprived because of how much they work, and also experiences a lot of stress. A problem that can arise with this is that they might stop drinking water, and instead drink coffee to stay awake. This can make skin look worse and make someone go see a dermatologist. Skin’s appearance can be an indicator for their overall health and the dermatologist would probably recommend drinking 64 ounces of water,  and also to practice stress relief techniques, like meditation or breathing exercises for 10 minutes daily. Drinking enough water can also help with feelings of tiredness,  and improve skin tone and texture. By practicing stress relief and hydrating enough,  people in high stress jobs may sleep better, which will also then improve skin problems. The combination of stress relief, hydration, and sleep can also have benefits for mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Exemplified, middle positioned, chained",
+    "story": "Jenny is a young woman who has a demanding job. As a result, she is often sleep deprived because of how much she works, and also experiences a lot of stress. Jenny stopped drinking water because of her long hours, and instead drinks coffee to stay awake. Jenny noticed her skin was starting to look bad, so she went to her dermatologist. Her dermatologist told her to start drinking 64 ounces of water, and to start practicing stress relief techniques, like meditation or breathing exercises for 10 minutes daily. She also learned being well hydrated can help with her feelings of tiredness, and would improve her skin tone and texture. By exercising, practicing stress relief and hydrating enough, Jenny started sleeping better, which helped improve her skin problems. The combination of stress relief, hydration, and stress relief also had benefits for Jenny’s mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Non-exemplified, late positioned, unchained",
+    "story": "There are many people with demanding jobs. As a result, they are often sleep deprived because of how much they work, and also experiences a lot of stress. Sometimes they don’t drink enough water, and instead drink coffee to stay awake. This can make skin look worse. Skin’s appearance can be an indicator for their overall health. A person might go to a dermatologist for their skin problems, and they would recommend drinking 64 ounces of water, and also to practice stress relief techniques, like meditation or breathing exercises for 10 minutes daily. Drinking enough water can also help with feelings of tiredness, and improve skin tone and texture.By practicing stress relief and hydrating enough, people in high stress jobs may sleep better, which will also then improve skin problems. The combination of stress relief, hydration, and sleep can also have benefits for mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Exemplified, late positioned, unchained",
+    "story": "Jenny is a young woman who has a demanding job. As a result, she is often sleep deprived because of how much she works, and also experiences a lot of stress. Jenny stopped drinking water because of her long hours, and instead drinks coffee to stay awake. Jenny noticed her skin was starting to look bad, so she went to her dermatologist. Her dermatologist told her to start drinking 64 ounces of water and to start practicing stress relief techniques, like meditation or breathing exercises for 10 minutes daily. She also learned being hydrated can help with her feelings of tiredness, and would improve her skin tone and texture. By exercising, practicing stress relief and hydrating enough, Jenny started sleeping better, which helped improve her skin problems. The combination of stress relief, hydration, and stress relief also had benefits for Jenny’s mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Non-exemplified, late positioned, chained",
+    "story": "There are many people with demanding jobs. As a result, they are often sleep deprived because of how much they work, and also experiences a lot of stress. Sometimes they don’t drink enough water, and instead drink a lot of coffee to stay awake. This can make skin look worse and cause someone to go see a dermatologist. Skin can be an indicator for their overall health and the dermatologist would probably recommend drinking 64 ounces of water, and also to practice stress relief techniques, like meditation or breathing exercises for 10 minutes daily. Drinking enough water can also help with feelings of tiredness, and improve skin tone and texture. By practicing stress relief and hydrating enough, people in high stress jobs may sleep better, which will also then improve skin problems. The combination of stress relief, hydration, and sleep can also have benefits for mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Jenny story: Exemplified, late positioned, chained",
+    "story": "Jenny is a young woman who has a demanding job. As a result, she is often sleep deprived because of how much she works, and also experiences a lot of stress. Jenny has stopped drinking water because of her long hours, and instead drinks coffee to stay awake. Jenny noticed her skin was starting to look bad, so she went to her dermatologist. Her dermatologist told her to start drinking 64 ounces of water. And to start practicing stress relief techniques, like meditation or breathing exercises for 10 minutes daily. She also learned being hydrated can help with her feelings of tiredness, and would improve her skin tone and texture. By exercising, practicing stress relief and hydrating enough, Jenny started sleeping better, which helped improve her skin problems. The combination of stress relief, hydration, and stress relief also had benefits for Jenny’s mental health.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Judy Story: Non-exemplified, Early-positioned, Unchained",
+    "story": "Often, young adults going to college do not have enough time to prepare food for themselves. They might skip breakfast and consume large amounts of unhealthy snack food from convenience stores. Such eating habits can make a person feel [bad/sluggish/low energy] One good way to break this pattern is to ask for advice from other students,  who have healthy eating habits. Oftentimes, such students have developed easy-to-follow strategies for eating well, The students may suggest having breakfast with healthy food. When a student eats breakfast and replaces high calorie snack-foods with regular, healthy meals. They can maintain a healthier body composition.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Judy Story: Non-exemplified, Early-positioned, Chained",
+    "story": "Often, young adults going to college do not have enough time to prepare food for themselves. They might skip breakfast and consume large amounts of snack food from convenience stores. Increased body fat may make a person feel [bad/sluggish/low energy]. One good way to break this pattern is to ask for advice from other students, who have healthy eating habits. Oftentimes, such students have developed easy-to-follow strategies for eating well, and are aware of risk of eating snack food and skipping meals. The students may suggest having breakfast with healthy food. When a student eats breakfast and replaces high calorie snack-foods with regular, healthy meals. They can maintain a healthier body composition.",
+      "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Judy Story: Non-exemplified, Mid-positioned, Unchained",
+    "story": "Often, young adults going to college do not have enough time to prepare food for themselves. They might skip breakfast and consume large amounts of unhealthy snack food from convenience stores. Their eating habits might make them feel bad. One good way to break this pattern is to ask for advice from other students, who have healthy eating habits. Oftentimes, such students have developed easy-to-follow strategies for eating well. The students may suggest having breakfast with healthy food. When a student eats breakfast and replaces high calorie snack-foods with regular, healthy meals. They, over time, can develop efficient strategies for such healthier habits.",
+    "distractor": {
+    "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+    "question": "Which of the following is a true statement about tardigrades?",
+    "answers": [
+      "They can survive indefinitely without water",
+      "They are considered to be extremophiles",
+      "The can survive in outer space",
+      "Boiling water will kill a tardigrade"
+    ],
+    "correct": 2
+    }
+  },
+  {
+    "title": "Judy Story: Non-exemplified, Mid-positioned, Chained",
+    "story": "Often, young adults going to college, do not have enough time to prepare food by themselves. They might skip breakfast and consume large amounts of snack food from convenience stores. Their eating habits might make them feel bad. One good way to break this pattern is to ask for advice from other students, who have healthy eating habits. Oftentimes, such students have developed easy-to-follow strategies to avoid such pitfalls. The students will be willing to share this knowledge and their eating strategies. When a student eats breakfast and replaces high calorie snack-foods with regular, healthy meals. They, over time, can develop efficient strategies for such healthier habits.",
+    "distractor": {
+    "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+    "question": "Which of the following is a true statement about tardigrades?",
+    "answers": [
+      "They can survive indefinitely without water",
+      "They are considered to be extremophiles",
+      "The can survive in outer space",
+      "Boiling water will kill a tardigrade"
+    ],
+    "correct": 2
+    }
+  },
+  {
+    "title": "Judy Story: Non-exemplified, Late-positioned, Unchained",
+    "story": "Often, young adults going to college, do not have enough time to prepare food by themselves. They might skip breakfast and consume large amounts of high-calorie snack food from convenience stores. Their eating habits might make them feel bad. One good way to break this pattern is to ask for advice from other students, who have healthy eating habits. Oftentimes, these students develop strategies and knowledge. When a student eats breakfast and replaces high calorie snack-foods with regular, healthy meals. They, over time, can develop efficient strategies for such healthier habits.",
+  "distractor": {
+  "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+  "question": "Which of the following is a true statement about tardigrades?",
+  "answers": [
+    "They can survive indefinitely without water",
+    "They are considered to be extremophiles",
+    "The can survive in outer space",
+    "Boiling water will kill a tardigrade"
+  ],
+  "correct": 2
+}
+  },
+  {
+    "title": "Judy Story: Non-exemplified, Late-positioned, Chained",
+    "story": " Often, young adults going to college, do not have enough time to prepare food by themselves. They might skip breakfast and consume large amounts of snack food from convenience stores. Their eating habits might make them feel bad. One good way to break this pattern is to ask for advice from other students, who have healthy eating habits. Oftentimes, such students are aware of risk of eating snack food and skipping meals. The students will be willing to share their eating strategies and knowledge. This knowledge may motivate a student to , college students with a poor eating habit to start having breakfast and replace high calorie snack-foods with regular, healthy meals. The students may start to feel less concerned about health, and recover their original body condition.",
+  "distractor": {
+  "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+  "question": "Which of the following is a true statement about tardigrades?",
+  "answers": [
+    "They can survive indefinitely without water",
+    "They are considered to be extremophiles",
+    "The can survive in outer space",
+    "Boiling water will kill a tardigrade"
+  ],
+  "correct": 2
+}
+  },
+  {
+    "title": "Ruth Story: Non-exemplified, Early-positioned, Unchained",
+    "story": "Many middle aged women living in the United States have a sedentary lifestyle at home or workplace. Even they believe they have healthy eating habit and take regular check-ups, their sedentary lifestyle imposes a risk for osteoporosis. They visit a doctor to take a regular check-up, as it is recommended for middle aged women. The doctor may ask about recent daily routines as their usual procedure, but may suggest taking a x-ray. Then the doctor may diagnose them with osteoporosis. They may realize that not doing unhealthy behavior is not enough to keep their health, and their lifestyle needs to be changed. They decided to add more physical activities in their daily life. They also start to take dietary supplement that prevent osteoporosis.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Ruth Story: Non-exemplified, Early-positioned, Chained",
+    "story": "Many middle aged women living in the United States have a sedentary lifestyle. Even if they believe they have healthy eating habit and have regular check-ups, their sedentary lifestyle may put them at risk for osteoporosis. They visit a doctor, when they have a small physical impact on their body. The doctor may ask about recent daily routines as their usual procedure, but may suggest taking a x-ray. Then the doctor may diagnose them with osteoporosis. They may realize that not doing unhealthy behavior is not enough to keep their health, and their lifestyle needs to be changed. They decided to add more physical activities in their daily life. They also start to take dietary supplement that prevent osteoporosis.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Ruth Story: Non-exemplified, Mid-positioned, Unchained",
+    "story": "Many middle aged women living in the United States have a sedentary lifestyle at home or workplace. Even they believe they have healthy eating habit and take regular check-ups, their sedentary lifestyle imposes a risk for osteoporosis. They take a regular check-up, as it is recommended for middle aged women. The doctor may ask about recent daily routines as their usual procedure, but may suggest taking a x-ray. Then the doctor may diagnose them with osteoporosis. They may realize that not doing unhealthy behavior is not enough to keep their health, and their lifestyle needs to be changed. They decided to add more physical activities in their daily life. They also start to take dietary supplement that prevent osteoporosis.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Ruth Story: Non-exemplified, Mid-positioned, Chained",
+    "story": "Many middle aged women living in the United States have a sedentary lifestyle at home or workplace. Even they believe they have healthy eating habit and take regular check-ups, their sedentary lifestyle imposes a risk for osteoporosis. They take a regular check-up, as it is recommended for middle aged women. The doctor may ask about recent daily routines as their usual procedure, but may suggest taking a x-ray. Then the doctor may diagnose them with osteoporosis. They may realize that not doing unhealthy behavior is not enough to keep their health, and their lifestyle needs to be changed. Following the doctor’s suggestion, they decided to add more physical activities in their daily life. They also start to take dietary supplement that prevent osteoporosis.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Ruth Story: Non-exemplified, Late-positioned, Unchained",
+    "story": "Many middle aged women living in the United States have a sedentary lifestyle at home or workplace. Even they believe they have healthy eating habit and take regular check-ups, their sedentary lifestyle imposes a risk for osteoporosis. They take a regular check-up, as it is recommended for middle aged women. The doctor may ask about recent daily routines as their usual procedure, but may suggest taking a x-ray. Then the doctor may diagnose them with osteoporosis. They may realize that not doing unhealthy behavior is not enough to keep their health, and their lifestyle needs to be changed. They decided to add more physical activities in their daily life. They also start to take dietary supplement that prevent osteoporosis.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  },
+  {
+    "title": "Ruth Story: Non-exemplified, Mid-positioned, Chained",
+    "story": " Many middle aged women living in the United States have a sedentary lifestyle at home or workplace. Even they believe they have healthy eating habit and take regular check-ups, their sedentary lifestyle imposes a risk for osteoporosis. They take a regular check-up, as it is recommended for middle aged women. The doctor may ask about recent daily routines as their usual procedure, but may suggest taking a x-ray. Then the doctor may diagnose them with osteoporosis. They may realize that not doing unhealthy behavior is not enough to keep their health, and their lifestyle needs to be changed. The lesson would make them add more physical activities in their daily life. They also start to take dietary supplement that prevent osteoporosis.",
+    "distractor": {
+      "probe": "Tardigrades can survive in extreme environments. For example, they can withstand temperatures from just above absolute zero to well above the boiling point of water (100 °C), pressures about six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce. They are not considered extremophilic because they are not adapted to exploit these conditions. This means that their chances of dying increase the longer they are exposed to the extreme environments, whereas true extremophiles thrive in a physically or geochemically extreme condition that would harm most other organisms.",
+      "question": "Which of the following is a true statement about tardigrades?",
+      "answers": [
+        "They can survive indefinitely without water",
+        "They are considered to be extremophiles",
+        "The can survive in outer space",
+        "Boiling water will kill a tardigrade"
+      ],
+      "correct": 2
+    }
+  }
+]
