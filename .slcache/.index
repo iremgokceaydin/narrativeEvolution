@@ -12586,3 +12586,14 @@ n:1403:java_security_MessageDigest$digest$11
 n:1479:java_security_MessageDigest$update$9
 n:1403:java_security_MessageDigest$digest$10
 n:2789:asset/pipeline/AssetHelper$getAssetFileWithExtension$22
+n:2789:asset/pipeline/AssetHelper$getAssetFileWithExtension$20
+n:2556:edu/msu/mi/gwurk/MturkTaskService$onTaskStarting
+y:11242:org/apache/axis/message/SOAPFaultBuilder
+n:5798:org/apache/axis/message/SOAPFaultDetailsBuilder
+n:29119:edu/msu/mi/gwurk/SingleHitTask_$$_javassist_0
+n:1925:java_lang_CharSequence$length$7
+n:12125:org/apache/axis/handlers/soap/SOAPService
+n:303:org/apache/commons/httpclient/MultiThreadedHttpConnectionManager$1
+n:411:javax/xml/rpc/handler/HandlerChain
+n:265:org/hibernate/engine/internal/EntityEntryContext$1
+n:1573:com/amazonaws/mturk/service/axis/RequesterServiceRaw$forceExpireHIT
